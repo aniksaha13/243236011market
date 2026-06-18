@@ -310,8 +310,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/0OCAzp3.jpeg" group-title="Entertainment",Sangsodh 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="Entertainment", Aljazeera 📺 (AKASH GO)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Entertainment",NTV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/0yHAaUI.jpeg" group-title="Entertainment",Masranga 📺 (AKASH GO)
@@ -333,13 +331,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/iQI3XF0.png" group-title="News",Channel 1  📺  (Akash Go)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="News", Aljazeera 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 
                 #========Bd ayna server=======
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",[BD] Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/I3VM78a.jpeg" group-title="Movie",sun bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd
 https://talive-anikad1.netlify.app/starjalshahd.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd
@@ -371,14 +371,15 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional
 http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",[BD] Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
 
 
 
 #======movie======
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Srw6nG9.jpeg" group-title="Movie",khusbu bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/I3VM78a.jpeg" group-title="Movie",sun bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/bQOQVXf.jpeg" group-title="Movie",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/0sxUwBQ.png" group-title="Movie",SRK Tv
