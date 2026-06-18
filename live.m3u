@@ -377,15 +377,16 @@ https://raihantv.vercel.app/api/stream?url=http%3A%2F%2Fluckonline.eu%2Flive%2Fy
 http://172.19.17.3:8090/hls/tsportshd3rd.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 4
 https://mflixott.com/tv/dd/live.php?id=270.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa
 http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UmkqPFt.jpeg" group-title="sports",Zeebangla Cinema FiFa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",Go live
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",Go live-FiFa
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",TSN-1 FiFa
+https://soccerball.st/s1.php
 
 
 
