@@ -401,7 +401,7 @@ http://172.19.17.3:8090/hls/tsportshd3rd.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 4
 http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 1
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 2
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-1
